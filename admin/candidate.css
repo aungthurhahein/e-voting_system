@@ -1,0 +1,28 @@
+
+td {       font-size: 8pt;
+/*order-bottom:1px solid #999;*/
+}
+A:link { color: #FF0000; }
+A:visited { color: #800080; }
+A:active { color: #0000FF; }
+.ThRows { background-color: #407DBB; color: #FFFFFF;
+          font-weight: bold; text-align: center;
+       font-family: Verdana;
+       font-size: 8pt;
+	   order-bottom:1px solid #999;
+}
+.TrRows { background-color: #FFFFFF; color: #000000;
+       font-family: Verdana;
+       font-size: 8pt;
+	   order-bottom:1px solid #999;
+}
+.TrOdd  { background-color: #FFFFE1; color: #000000;
+       font-family: Verdana;
+       font-size: 8pt;
+	   border-bottom:1px solid #999;
+}
+.TrHover { background-color:#FFF; color: #000000;
+       font-family: Verdana;
+       font-size: 8pt;
+	   order-bottom:1px solid #999;
+}
